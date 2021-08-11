@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+dependencies:
+  - jupyter
+  - mypy
+  - numpy
+  - pydantic
+  - python-dateutil
+  - requests
+  - typing_extensions
+  - types-python-dateutil
+  - types-requests
